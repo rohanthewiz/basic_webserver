@@ -5,6 +5,7 @@ This is a super light and fast webserver built with Kemal (http://kemalcr.com/)
 ### Install Crystal
 You need to have Crystal installed first.
 Some good instructions are here https://crystal-lang.org/docs/.
+
 Below are the general steps.
 
 On a Mac
@@ -26,6 +27,7 @@ Change to the project directory and run:
 
 ### Running the server
 `./basic_webserver`
+
 To run on port 80: `sudo ./basic_webserver -p 80`
 
 See more on Kemal here: http://kemalcr.com/
