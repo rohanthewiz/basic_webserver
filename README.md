@@ -1,8 +1,6 @@
 # basic_webserver
 
-This is a super light and fast webserver build with Kemal (http://kemalcr.com/)
-
-## Installation
+This is a super light and fast webserver built with Kemal (http://kemalcr.com/)
 
 ### Install Crystal
 You need to have Crystal installed first.
@@ -28,6 +26,7 @@ Change to the project directory and run:
 
 ### Running the server
 `./basic_webserver`
+To run on port 80: `sudo ./basic_webserver -p 80`
 
 See more on Kemal here: http://kemalcr.com/
 
