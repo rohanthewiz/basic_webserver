@@ -1,13 +1,13 @@
 # basic_webserver
 
-TODO: Write a description here
+This is a super light and fast webserver build with Kemal (http://kemalcr.com/)
 
 ## Installation
 
 ### Install Crystal
-You need to have Crystal installed first
-Some good instructions are here http://kemalcr.com/docs/getting_started/,
-but below are the general steps
+You need to have Crystal installed first.
+Some good instructions are here https://crystal-lang.org/docs/.
+Below are the general steps.
 
 On a Mac
 - `brew update`
