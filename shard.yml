@@ -1,0 +1,18 @@
+name: basic_webserver
+version: 0.1.0
+
+authors:
+  - Rohan Allison <rohanthewiz_at_gmail.com>
+
+targets:
+  basic_webserver:
+    main: src/basic_webserver.cr
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    branch: master
+
+crystal: 0.20.0
+
+license: MIT
